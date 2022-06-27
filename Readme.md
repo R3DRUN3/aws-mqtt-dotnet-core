@@ -1,4 +1,5 @@
 # aws-mqtt-dotnet-core ✉️ 💬 ✉️
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple demo for mqtt operations on aws iot core via .net core console application.
 
